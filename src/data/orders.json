@@ -1,0 +1,21 @@
+[
+  {
+    "orderId": "ORD001",
+    "customerName": "John Doe",
+    "customerEmail": "john@example.com",
+    "customerPhone": "+1234567890",
+    "vinNumber": "1HGCM82633A123456",
+    "amount": 49.99,
+    "items": [
+      {
+        "id": "1",
+        "title": "Basic Report",
+        "reportType": "basic",
+        "price": 49.99,
+        "quantity": 1
+      }
+    ],
+    "paymentStatus": "completed",
+    "createdAt": "2024-01-20T10:00:00Z"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "paypal": {
+    "enabled": true
+  },
+  "prices": {
+    "tshirt": 25.00,
+    "hoodie": 45.00,
+    "longsleeve": 35.00,
+    "poster": 20.00
+  }
+}

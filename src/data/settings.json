@@ -1,0 +1,9 @@
+{
+  "prices": {
+    "basicReport": 29.99,
+    "fullReport": 49.99,
+    "premiumReport": 79.99,
+    "motorcycleReport": 34.99,
+    "truckReport": 44.99
+  }
+}
